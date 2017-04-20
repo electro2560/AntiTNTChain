@@ -1,0 +1,6 @@
+name: AntiTNTChain
+author: ElectroBoy2560
+version: 1.1.0
+website: http://dev.electro2560.com/
+main: com.electro2560.dev.AntiTNTChain.AntiTNTChain
+description: Stops TNT chains to prevent server lag

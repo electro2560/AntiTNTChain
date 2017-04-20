@@ -1,0 +1,14 @@
+#The maximum amount of TNT blocks that can explode. Set to 2 by default to allow small TNT cannons to work.
+maxTNT: 2
+
+#The message sent to the player if the TNT chain is stopped.
+chainMessage: '&cTNT chain stopped. Only up to {maxTNT} can explode at once!'
+
+#If a player is within the distance from TNT when it explodes, they will receive any messages
+messageDistance: 7
+
+#Should the plugin automatically check for updates?
+checkForUpdates: true
+
+#Allow metrics logging
+useMetrics: true
